@@ -1,0 +1,7 @@
+path: /Users/PC/Documents/professional_project/Red_Light_Violation_Detection_Project
+train: data/train_traffic_light
+val: data/valid_traffic_light
+test: data/test_traffic_light
+
+nc: 3
+names: ["green", "red", "yellow"]

@@ -1,0 +1,7 @@
+path: /Users/PC/Documents/professional_project/Red_Light_Violation_Detection_Project
+train: data/train_plate_license
+val: data/valid_plate_license
+test: data/test_plate_license
+
+nc: 1
+names: ["biển số"]

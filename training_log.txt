@@ -1,0 +1,61 @@
+2024-11-30 14:38:51,937 - Starting initial training...
+2024-11-30 20:08:38,975 - Starting initial training...
+2024-11-30 23:44:28,024 - Starting initial training...
+2024-11-30 23:49:01,991 - Starting initial training...
+2024-12-01 00:05:52,203 - Checkpoint found at runs/train/my_experiment12/weights/last.pt. Resuming training.
+2024-12-01 00:05:52,203 - Resuming training from checkpoint...
+2024-12-01 04:07:13,796 - Checkpoint found at runs/train/my_experiment12/weights/last.pt. Resuming training.
+2024-12-01 04:07:13,796 - Resuming training from checkpoint...
+2024-12-01 12:14:23,939 - Checkpoint found at runs/train/my_experiment12/weights/last.pt. Resuming training.
+2024-12-01 12:14:23,939 - Resuming training from checkpoint...
+2024-12-01 16:52:10,623 - Checkpoint found at runs/train/my_experiment12/weights/last.pt. Resuming training.
+2024-12-01 16:52:10,623 - Resuming training from checkpoint...
+2024-12-02 08:16:40,669 - Checkpoint found at runs/train/my_experiment12/weights/last.pt. Resuming training.
+2024-12-02 08:16:40,669 - Resuming training from checkpoint...
+2024-12-02 17:06:44,876 - Checkpoint found at runs/train/my_experiment12/weights/last.pt. Resuming training.
+2024-12-02 17:06:44,876 - Resuming training from checkpoint...
+2024-12-02 23:11:49,579 - Training resumed and completed.
+2024-12-02 23:11:49,636 - Training resumed.
+2024-12-03 22:36:09,143 - No checkpoint found. Starting new training session.
+2024-12-03 22:36:09,143 - Starting initial training...
+2024-12-03 22:36:19,605 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-03 22:36:28,437 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-03 22:36:32,666 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-03 22:36:37,112 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-03 22:36:41,224 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-03 22:36:46,338 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-03 22:36:55,240 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-03 22:37:02,600 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-03 22:37:10,560 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-04 08:15:48,518 - Checkpoint found at runs/detect/train_traffic_light/weights/last.pt. Resuming training.
+2024-12-04 08:15:48,518 - Resuming training from checkpoint...
+2024-12-04 08:15:58,504 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-04 08:16:06,317 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-04 08:16:11,062 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-04 08:16:15,602 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-04 08:16:19,758 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-04 08:16:25,600 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-04 08:16:30,728 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-04 08:16:34,408 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-04 08:16:42,311 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-04 14:15:43,016 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-04 14:15:47,399 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-04 14:15:53,296 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-04 14:16:03,428 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-04 14:16:07,795 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-04 14:16:12,314 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-04 14:16:22,199 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-04 14:16:33,143 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-04 15:10:37,037 - Training resumed and completed.
+2024-12-04 15:10:37,130 - Training resumed.
+2024-12-05 12:05:22,984 - Checkpoint found at runs/detect/train_detect_plate/weights/last.pt. Resuming training.
+2024-12-05 12:05:22,984 - Resuming training from checkpoint...
+2024-12-05 12:05:42,978 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-05 12:05:52,421 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-05 12:05:57,409 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-05 12:06:02,131 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-05 12:06:07,421 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-05 12:06:11,867 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-05 12:06:16,012 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-05 12:06:21,026 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-05 12:06:27,290 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
