@@ -1,0 +1,26 @@
+[
+    {
+        "vehicle_id": 1,
+        "plate_number": null,
+        "class_name": "Moto",
+        "timestamp": "20241211_162053",
+        "image_path": "violations/vehicle_1_20241211_162053.jpg",
+        "violation_type": "Vi ph\u1ea1m \u0111\u00e8n \u0111\u1ecf"
+    },
+    {
+        "vehicle_id": 140,
+        "plate_number": null,
+        "class_name": "Moto",
+        "timestamp": "20241211_162152",
+        "image_path": "violations/vehicle_140_20241211_162152.jpg",
+        "violation_type": "Vi ph\u1ea1m \u0111\u00e8n \u0111\u1ecf"
+    },
+    {
+        "vehicle_id": 273,
+        "plate_number": null,
+        "class_name": "Moto",
+        "timestamp": "20241211_163654",
+        "image_path": "violations/vehicle_273_20241211_163654.jpg",
+        "violation_type": "Vi ph\u1ea1m \u0111\u00e8n \u0111\u1ecf"
+    }
+]

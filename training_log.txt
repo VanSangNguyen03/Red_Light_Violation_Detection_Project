@@ -59,3 +59,1181 @@
 2024-12-05 12:06:16,012 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
 2024-12-05 12:06:21,026 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
 2024-12-05 12:06:27,290 - A new version of Albumentations is available: 1.4.21 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-10 08:35:36,511 - Checkpoint found at runs/detect/train_detect_plate/weights/last.pt. Resuming training.
+2024-12-10 08:35:36,511 - Resuming training from checkpoint...
+2024-12-10 08:35:57,169 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-10 08:36:06,482 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-10 08:36:12,299 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-10 08:36:18,083 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-10 08:36:23,057 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-10 08:36:28,148 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-10 08:36:33,866 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-10 08:36:39,434 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-10 08:36:47,584 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 08:56:58,410 - Checkpoint found at runs/detect/train_detect_plate/weights/last.pt. Resuming training.
+2024-12-12 08:56:58,425 - Resuming training from checkpoint...
+2024-12-12 08:57:13,639 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 08:57:19,526 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 08:57:23,504 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 08:57:28,109 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 08:58:38,080 - Checkpoint found at runs/detect/train_detect_plate/weights/last.pt. Resuming training.
+2024-12-12 08:58:38,080 - Resuming training from checkpoint...
+2024-12-12 08:58:49,475 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 08:58:55,890 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 08:58:59,923 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 08:59:03,517 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 08:59:07,307 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 08:59:12,314 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 08:59:16,245 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 08:59:19,856 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 08:59:27,088 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 09:03:07,472 - No checkpoint found. Starting new training session.
+2024-12-12 09:03:07,472 - Starting initial training...
+2024-12-12 09:03:21,207 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 09:03:27,232 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 09:03:31,076 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 09:03:35,153 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 09:03:39,080 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 09:03:42,638 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 09:03:46,320 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 09:03:50,867 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 09:03:56,576 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 12:33:30,839 - No checkpoint found. Starting new training session.
+2024-12-12 12:33:30,843 - Starting initial training...
+2024-12-12 12:33:49,988 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-12 12:33:58,541 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-12 12:34:04,968 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-12 12:34:10,972 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-12 12:34:15,929 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-12 12:34:21,485 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-12 12:34:27,218 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-12 12:34:33,249 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-12 12:34:41,604 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-12 12:37:04,227 - No checkpoint found. Starting new training session.
+2024-12-12 12:37:04,227 - Starting initial training...
+2024-12-12 12:37:26,153 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-12 12:37:35,094 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-12 12:37:40,444 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-12 12:37:46,123 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-12 12:37:51,343 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-12 12:37:56,369 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-12 12:38:02,319 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-12 12:38:08,180 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-12 12:38:16,338 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-12 15:11:45,553 - Checkpoint found at runs/detect/train_traffic_light2/weights/last.pt. Resuming training.
+2024-12-12 15:11:45,553 - Resuming training from checkpoint...
+2024-12-12 15:12:00,962 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 15:12:07,020 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 15:12:11,775 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 15:12:15,966 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 15:12:20,739 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 15:12:24,675 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 15:12:28,561 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 15:12:33,621 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 15:12:40,191 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 19:09:30,353 - Checkpoint found at runs/detect/train_traffic_light2/weights/last.pt. Resuming training.
+2024-12-12 19:09:30,353 - Resuming training from checkpoint...
+2024-12-12 19:09:50,568 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 19:10:00,530 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 19:10:05,803 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 19:10:09,562 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 19:10:15,045 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 19:10:19,209 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 19:10:22,577 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 19:10:25,802 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-12 19:10:36,322 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 14:46:25,902 - Checkpoint found at runs/detect/train_traffic_light2/weights/last.pt. Resuming training.
+2024-12-13 14:46:25,903 - Resuming training from checkpoint...
+2024-12-13 14:46:44,086 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 14:46:55,165 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 14:46:59,469 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 14:47:03,428 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 14:47:07,764 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 14:47:12,281 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 14:47:17,243 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 14:47:22,969 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 14:47:30,029 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:14:25,555 - Checkpoint found at runs/detect/train_traffic_light2/weights/last.pt. Resuming training.
+2024-12-13 15:14:25,555 - Resuming training from checkpoint...
+2024-12-13 15:14:41,199 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:14:47,540 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:14:51,766 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:14:56,105 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:15:00,547 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:15:04,615 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:15:09,136 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:15:16,890 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:15:23,251 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:17:30,763 - Checkpoint found at runs/detect/train_traffic_light2/weights/last.pt. Resuming training.
+2024-12-13 15:17:30,763 - Resuming training from checkpoint...
+2024-12-13 15:17:46,392 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:17:52,769 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:17:56,969 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:18:01,206 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:18:06,880 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:18:11,001 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:18:15,311 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:18:19,760 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:18:26,990 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:44:28,783 - Checkpoint found at runs/detect/train_traffic_light2/weights/last.pt. Resuming training.
+2024-12-13 15:44:28,783 - Resuming training from checkpoint...
+2024-12-13 15:45:00,077 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:45:07,326 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:45:11,764 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:45:16,806 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:45:21,021 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:45:26,073 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:45:31,294 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:45:35,898 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 15:45:43,258 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 16:21:54,895 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 16:22:02,489 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 16:22:12,561 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 16:22:21,194 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 16:22:32,097 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 16:22:39,700 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:12:08,523 - Checkpoint found at runs/detect/train_traffic_light2/weights/last.pt. Resuming training.
+2024-12-13 22:12:08,523 - Resuming training from checkpoint...
+2024-12-13 22:12:27,213 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:12:37,115 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:12:43,215 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:12:48,106 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 32, in fetch_version_info
+    data = response.read()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 482, in read
+    s = self._safe_read(self.length)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 631, in _safe_read
+    data = self.fp.read(amt)
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 717, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\PC\anaconda3\envs\train\lib\ssl.py", line 1307, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\PC\anaconda3\envs\train\lib\ssl.py", line 1163, in read
+    return self._sslobj.read(len, buffer)
+TimeoutError: The read operation timed out
+2024-12-13 22:12:50,613 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:12:55,443 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:12:57,946 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:13:02,218 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:13:10,025 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:14:04,608 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:14:08,946 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:14:31,497 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:14:33,636 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:14:41,988 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:14:42,022 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:18:42,014 - Checkpoint found at runs/detect/train_traffic_light2/weights/last.pt. Resuming training.
+2024-12-13 22:18:42,014 - Resuming training from checkpoint...
+2024-12-13 22:18:56,262 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:19:02,787 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:19:06,783 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:19:11,259 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:19:16,875 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:19:22,554 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:19:25,423 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:19:29,673 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:19:36,935 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:20:29,086 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:20:32,332 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:20:37,879 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:20:48,628 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:20:52,613 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:20:57,876 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:23:46,589 - Checkpoint found at runs/detect/train_traffic_light2/weights/last.pt. Resuming training.
+2024-12-13 22:23:46,589 - Resuming training from checkpoint...
+2024-12-13 22:24:01,916 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-13 22:24:08,814 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-13 22:24:14,372 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:24:17,994 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:24:23,558 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:24:28,169 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:24:31,695 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:24:35,428 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:24:41,604 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:26:02,000 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:26:04,804 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:26:09,197 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:26:13,682 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:26:17,461 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:26:25,772 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:26:29,032 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-13 22:26:42,892 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 00:18:26,731 - Checkpoint found at runs/detect/train_traffic_light2/weights/last.pt. Resuming training.
+2024-12-15 00:18:26,731 - Resuming training from checkpoint...
+2024-12-15 00:18:42,744 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 00:18:50,295 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 00:18:53,809 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 00:18:57,574 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 00:19:01,761 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 00:19:05,806 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 00:19:10,352 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 00:19:14,466 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 00:19:21,025 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 00:33:46,397 - Training resumed and completed.
+2024-12-15 00:33:46,497 - Training resumed.
+2024-12-15 00:35:59,004 - No checkpoint found. Starting new training session.
+2024-12-15 00:35:59,004 - Starting initial training...
+2024-12-15 00:37:25,530 - No checkpoint found. Starting new training session.
+2024-12-15 00:37:25,530 - Starting initial training...
+2024-12-15 00:37:41,076 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 00:37:47,124 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 00:37:50,987 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 00:37:54,825 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 00:37:58,763 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 00:38:03,012 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 00:38:07,564 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 00:38:11,885 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 00:38:18,563 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 15:39:18,830 - Checkpoint found at runs/detect/train_detect_plate2/weights/last.pt. Resuming training.
+2024-12-15 15:39:18,830 - Resuming training from checkpoint...
+2024-12-15 15:39:33,751 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 15:39:39,811 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 15:39:43,663 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 15:39:47,892 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 15:39:52,731 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 15:39:57,105 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 15:40:01,572 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 15:40:05,871 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 15:40:12,091 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 21:16:16,323 - Checkpoint found at runs/detect/train_detect_plate2/weights/last.pt. Resuming training.
+2024-12-15 21:16:16,323 - Resuming training from checkpoint...
+2024-12-15 21:16:37,651 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 21:16:48,534 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 21:16:51,922 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 21:16:57,378 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 21:17:01,815 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 21:17:06,045 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 21:17:10,740 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 21:17:15,784 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-15 21:17:22,212 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 09:43:11,483 - Checkpoint found at runs/detect/train_detect_plate2/weights/last.pt. Resuming training.
+2024-12-16 09:43:11,483 - Resuming training from checkpoint...
+2024-12-16 09:43:55,152 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 09:44:06,400 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 09:44:11,841 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 09:44:17,750 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 09:44:23,270 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 09:44:28,197 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 09:44:34,774 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 09:44:39,623 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 09:44:47,243 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 11:56:17,716 - Checkpoint found at runs/detect/train_detect_plate2/weights/last.pt. Resuming training.
+2024-12-16 11:56:17,716 - Resuming training from checkpoint...
+2024-12-16 11:57:04,649 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-16 11:57:17,497 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-16 11:57:26,101 - Error fetching version info
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1348, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1038, in _send_output
+    self.send(msg)
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 976, in send
+    self.connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 1448, in connect
+    super().connect()
+  File "C:\Users\PC\anaconda3\envs\train\lib\http\client.py", line 942, in connect
+    self.sock = self._create_connection(
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 836, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+  File "C:\Users\PC\anaconda3\envs\train\lib\socket.py", line 967, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\PC\anaconda3\envs\train\lib\site-packages\albumentations\check_version.py", line 29, in fetch_version_info
+    with opener.open(url, timeout=2) as response:
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 519, in open
+    response = self._open(req, data)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 536, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 496, in _call_chain
+    result = func(*args)
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1391, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\PC\anaconda3\envs\train\lib\urllib\request.py", line 1351, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
+2024-12-16 11:57:35,743 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 11:57:41,542 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 11:57:48,088 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 11:57:54,988 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 11:58:05,315 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 11:58:14,458 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 13:27:37,742 - Checkpoint found at runs/detect/train_detect_plate2/weights/last.pt. Resuming training.
+2024-12-16 13:27:37,742 - Resuming training from checkpoint...
+2024-12-16 13:28:19,805 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 13:28:32,045 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 13:28:37,924 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 13:28:44,483 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 13:28:49,921 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 13:28:54,322 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 13:28:59,470 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 13:29:03,990 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-16 13:29:11,062 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
