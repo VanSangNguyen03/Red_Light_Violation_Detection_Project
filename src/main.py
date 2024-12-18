@@ -128,24 +128,94 @@ def save_violation_data(violation_data):
     with open(violation_json_path, 'w') as f:
         json.dump(existing_data, f, indent=4)
 
+        #save dâta to SQL database
+    save_to_databases(violation_data)
+
+def initialize_database():
+    conn = sqlite3.connect('ViolatingDatabase.db')
+    cursor = conn.cursor()
+    
+    # Create table if not exists
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS LicensePlates (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            vehicle_id INTEGER,
+            license_plate TEXT,
+            vehicle_class TEXT,
+            time_stamp TEXT,
+            status TEXT,
+            image_path TEXT
+        )
+    ''')
+    conn.commit()
+    conn.close()
+
+def save_to_databases(violation_data):
+    try:
+        # Initialize database if not exists
+        initialize_database()
+        
+        conn = sqlite3.connect('ViolatingDatabase.db')
+        cursor = conn.cursor()
+        
+        # Get the first (and only) vehicle ID from the dictionary
+        vehicle_id = list(violation_data.keys())[0]
+        data = violation_data[vehicle_id]
+        
+        cursor.execute(
+            '''
+            INSERT INTO LicensePlates(
+                vehicle_id, 
+                license_plate, 
+                vehicle_class, 
+                time_stamp, 
+                status, 
+                image_path
+            )
+            VALUES (?, ?, ?, ?, ?, ?)
+            ''', 
+            (
+                data["vehicle_id"],
+                data["plate_number"],
+                data["vehicle_class"],
+                data["timestamp"],
+                data["status"],
+                data["image_path"]
+            )
+        )
+        conn.commit()
+        conn.close()
+        print(f"Successfully saved violation data for vehicle {vehicle_id}")
+        
+    except sqlite3.Error as e:
+        print(f"Database error: {e}")
+    except Exception as e:
+        print(f"Error saving violation data: {e}")
+
+# First, modify vehicle tracking to include class information
 def draw_results(img, vehicle_tracks, assigned_plates, traffic_lights, vehicle_detections, traffic_lights_data):
     violation_img = img.copy()
     
-    # Draw vehicle detections with class names
+    # Create mapping of vehicle IDs to their classes
+    vehicle_classes_map = {}
     for detection in vehicle_detections:
-        x1, y1, x2, y2, cls = map(int, detection[:5])
-        class_name = vehicle_class_names.get(cls, "Unknown")
-        (label_width, label_height), baseline = cv2.getTextSize(class_name, cv2.FONT_HERSHEY_SIMPLEX, 0.5, 1)
-        label_height += 20
-        label_y1 = y1 - label_height - baseline
-        label_y2 = y1
-        cv2.rectangle(img, (x1, label_y1), (x1 + label_width + 30, label_y2), (0, 255, 0), -1)
-        cv2.putText(img, class_name, (x1 + 5, label_y2 - 5), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 0, 0), 1)
+        x1, y1, x2, y2, cls, conf = detection
+        # Store class info when creating detections
+        vehicle_classes_map[tuple([x1, y1, x2, y2])] = cls
 
     for track in vehicle_tracks:
         x1, y1, x2, y2, vehicle_id = map(int, track[:5])
         is_violating = False
         
+        # Get vehicle class by matching track coordinates with detections
+        vehicle_class = None
+        for det_coords, cls in vehicle_classes_map.items():
+            if abs(det_coords[0] - x1) < 10 and abs(det_coords[1] - y1) < 10:
+                vehicle_class = int(cls)
+                break
+        
+        class_name = vehicle_class_names.get(vehicle_class, "Unknown")
+
         for light_id, data in traffic_lights_data.items():
             stop_line = data["stop_line"]
             stop_line_y = min(p[1] for p in stop_line)
@@ -167,21 +237,26 @@ def draw_results(img, vehicle_tracks, assigned_plates, traffic_lights, vehicle_d
                     best_plate_text = "Unknown"
                     best_plate_confidence = 0.0
                     
-                    
-                    # First check vehicle_plate_history
                     if vehicle_id in vehicle_plate_history:
                         best_plate_text, best_plate_confidence = vehicle_plate_history[vehicle_id]
-                    # Then check current assigned plates if available
                     elif vehicle_id in assigned_plates:
                         _, current_plate_text = assigned_plates[vehicle_id][:2]
                         best_plate_text = current_plate_text
 
                     if vehicle_id not in violating_vehicles:
                         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-                        class_name = vehicle_class_names.get(int(detection[4]), "Unknown")
+                        
+                        # Draw violation box and info on violation_img
+                        cv2.rectangle(violation_img, (x1, y1), (x2, y2), (0, 0, 255), 2)  # Red box
                         violation_text = f"ID: {vehicle_id} | Class: {class_name} | Plate: {best_plate_text}"
-                        cv2.putText(violation_img, violation_text, (x1, y1 - 40), 
+                        cv2.putText(violation_img, violation_text, (x1, y1 - 10), 
                                   cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2)
+                        
+                        # Draw stop line and traffic light ROI
+                        for light_id, data in traffic_lights_data.items():
+                            stop_line = data["stop_line"]
+                            for i in range(len(stop_line) - 1):
+                                cv2.line(violation_img, tuple(stop_line[i]), tuple(stop_line[i + 1]), (0, 255, 0), 2)
                         
                         img_name = f"violation_id{vehicle_id}_{timestamp}.jpg"
                         img_path = os.path.join(violation_images_path, img_name)
@@ -193,7 +268,7 @@ def draw_results(img, vehicle_tracks, assigned_plates, traffic_lights, vehicle_d
                                 "plate_number": best_plate_text,
                                 "plate_confidence": float(best_plate_confidence),
                                 "image_path": img_path,
-                                "vehicle_class": class_name,
+                                "vehicle_class": class_name,  # Now using correct class name
                                 "vehicle_id": vehicle_id,
                                 "status": "violating_vehicle"
                             }
@@ -204,9 +279,10 @@ def draw_results(img, vehicle_tracks, assigned_plates, traffic_lights, vehicle_d
                             "status": "violating_vehicle",
                             "plate": best_plate_text,
                             "confidence": best_plate_confidence,
-                            "timestamp": timestamp
+                            "timestamp": timestamp,
+                            "class": class_name  # Added class info to violating vehicles
                         }
-                    break
+                break
 
         # Draw vehicle ID and box
         color_violating = (0, 0, 255) if is_violating or vehicle_id in violating_vehicles else (0, 255, 0)
@@ -216,10 +292,10 @@ def draw_results(img, vehicle_tracks, assigned_plates, traffic_lights, vehicle_d
         display_text = f"ID: {vehicle_id}"
         if vehicle_id in vehicle_plate_history:
             plate_text = vehicle_plate_history[vehicle_id][0]
-           
-        cv2.putText(img, display_text, (x1 + 5, y1 - 25), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 0, 0), 1)
+        cv2.rectangle(img, (x1, y1 - 20), (x1 + 70, y1), color_violating, -1)
+        cv2.putText(img, display_text, (x1 + 5, y1 - 8), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 0, 0), 1)
 
-    # Rest of the drawing code remains the same
+    # Rest of the drawing code remains the same 
     # Drawing plates - Modified this part
     for vehicle_id, plate_info in assigned_plates.items():
         if len(plate_info) >= 2:  # Make sure we have at least box and text

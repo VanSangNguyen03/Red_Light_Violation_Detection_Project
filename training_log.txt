@@ -1237,3 +1237,36 @@ urllib.error.URLError: <urlopen error [Errno 11001] getaddrinfo failed>
 2024-12-16 13:28:59,470 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
 2024-12-16 13:29:03,990 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
 2024-12-16 13:29:11,062 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-17 00:27:12,280 - Checkpoint found at runs/detect/train_detect_plate2/weights/last.pt. Resuming training.
+2024-12-17 00:27:12,280 - Resuming training from checkpoint...
+2024-12-17 00:27:34,124 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-17 00:27:41,299 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-17 00:27:45,598 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-17 00:27:50,403 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-17 00:27:55,003 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-17 00:27:59,314 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-17 00:28:03,774 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-17 00:28:08,966 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-17 00:28:15,673 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-17 22:12:54,631 - Checkpoint found at runs/detect/train_detect_plate2/weights/last.pt. Resuming training.
+2024-12-17 22:12:54,631 - Resuming training from checkpoint...
+2024-12-17 22:13:14,437 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-17 22:13:23,007 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-17 22:13:27,687 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-17 22:13:31,963 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-17 22:13:37,046 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-17 22:13:41,470 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-17 22:13:46,853 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-17 22:13:51,288 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-17 22:13:57,434 - A new version of Albumentations is available: 1.4.22 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-18 10:32:15,949 - Checkpoint found at runs/detect/train_detect_plate2/weights/last.pt. Resuming training.
+2024-12-18 10:32:15,951 - Resuming training from checkpoint...
+2024-12-18 10:32:46,063 - A new version of Albumentations is available: 1.4.23 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-18 10:32:58,408 - A new version of Albumentations is available: 1.4.23 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-18 10:33:04,064 - A new version of Albumentations is available: 1.4.23 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-18 10:33:09,508 - A new version of Albumentations is available: 1.4.23 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-18 10:33:15,068 - A new version of Albumentations is available: 1.4.23 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-18 10:33:20,365 - A new version of Albumentations is available: 1.4.23 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-18 10:33:25,590 - A new version of Albumentations is available: 1.4.23 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-18 10:33:32,730 - A new version of Albumentations is available: 1.4.23 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
+2024-12-18 10:33:41,428 - A new version of Albumentations is available: 1.4.23 (you have 1.4.10). Upgrade using: pip install --upgrade albumentations
